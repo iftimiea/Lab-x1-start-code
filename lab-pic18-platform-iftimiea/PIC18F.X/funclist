@@ -1,0 +1,16 @@
+_LCDClear: CODE, 64914 0 8
+_lcd_cmd: CODE, 65010 0 32
+_LCDPut: CODE, 64930 0 10
+_lcd_data: CODE, 65074 0 34
+_Delay1KTCYx: CODE, 64940 0 16
+_main: CODE, 65412 0 124
+_LCDPutString: CODE, 65202 0 92
+_LCDInit: CODE, 65294 0 118
+__initialization: CODE, 65108 0 36
+_initOscillator: CODE, 64922 0 8
+_Delay10TCYx: CODE, 64956 0 16
+_Delay100TCYx: CODE, 64972 0 16
+_Delay10KTCYx: CODE, 64988 0 22
+_LCDPos: CODE, 65150 0 52
+_initIO: CODE, 64908 0 6
+Total: 590
